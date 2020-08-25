@@ -1,0 +1,9 @@
+ciclo for:
+es un ciclo que se crea de manera programática para no repetir el mismo codigo varias veces, de esa manera ahorramos tiempo y evitamos repetirnos. 
+
+&&, ||, ! operadores lógicos:
+
+and: evaluará ambas condiciones y devolverá verdadero si ambas se cumplen.
+or: evaluará si una o ambas son verdaderas , si las dos son falsas devolverá falso.
+not: devolverá valor booleano opuesto de lo que se le pasa. 
+
