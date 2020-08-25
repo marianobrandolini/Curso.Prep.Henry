@@ -1,0 +1,3 @@
+Arrays,
+Son contenedores de datos que podemos guardar dentro de una variable y acceder a ellos a travez de un orden específico que es determinado por la posición de los elementos;
+
