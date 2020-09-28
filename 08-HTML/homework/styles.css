@@ -1,0 +1,38 @@
+body 
+	{ background-image:url(https://www.solofondos.com/wp-content/uploads/2015/11/fondo.png);
+	  max-width: 600px;
+      margin: 0 auto; 
+     
+    }
+
+h1 
+	{ color: blue;
+	  text-align: center;	
+	}
+h3 
+	{ color: white;
+	  text-align: center;	 
+	}
+h4 
+	{ color: white; 
+      text-align: center;
+	}
+img 
+	{ width: 400px;
+	  	 
+    }
+#thirdDiv
+	{ 
+      
+	  width: 500px;
+	  height: auto;
+	  background-color: pink;	
+	  padding: 50px; 
+	  border: 1px solid black;
+	} 
+#spanId
+	{ font-size: 18px;
+	  margin: 50px;	 
+	  color: white;
+	  text-align: center;
+	} 
